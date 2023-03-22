@@ -2,7 +2,7 @@ import React from 'react';
 
 function Input() {
   return (
-    <input type="text" placeholder="Enter text" />
+    <input type="text" placeholder="Ask Me A Question!" />
   );
 }
 

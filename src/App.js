@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <Title />
+      <Body />
       <Input />
       <Button />
-      <Body />
     </div>
   );
 }
