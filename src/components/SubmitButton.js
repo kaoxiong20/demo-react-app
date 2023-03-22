@@ -10,7 +10,7 @@ function SubmitButton() {
 export default SubmitButton;
 
 const AwesomeButton = styled.button`
-  background-color: #789F6E;
+  background-color: #A59191;
   padding: 6px;
   cursor: pointer;
   border-radius: 10px;
